@@ -1,6 +1,12 @@
-Hey there👋, I'm Ronitt Mehra
+# Hey there👋, I'm Ronitt Mehra
 
-With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging LLMs, scalable microservices, and cloud technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=Ronitt272&color=blue)
+
+##### With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging advanced machine learning pipelines, MLOps, LLMs, scalable microservices, and cloud technologies to drive innovation and enable high-performance, real-world applications.
+
+##### 🎓 Master of Science in Computer Science from Columbia University  
+##### 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies  
+##### 🚀 Always excited to learn and collaborate on innovative projects!
 
 ### 👩‍💻 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,3 +52,9 @@ With both industry and research experience, I have developed impactful solutions
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-00C8FF?style=for-the-badge&logo=agile&logoColor=black)
+
+### 📊 Ronitt Mehra's GitHub Stats
+![Ronitt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitt272&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitt272&layout=compact&theme=radical)
+
+
