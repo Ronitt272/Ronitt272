@@ -51,8 +51,9 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-00C8FF?style=for-the-badge&logo=agile&logoColor=black)
 
-### 📊 Ronitt Mehra's GitHub Stats
+### 📊 GitHub Stats
 ![Ronitt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitt272&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitt272&layout=compact&theme=radical)
 
 
