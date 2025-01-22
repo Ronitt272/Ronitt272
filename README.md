@@ -2,10 +2,11 @@
 
 With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging advanced machine learning pipelines, MLOps, LLMs, scalable microservices, and cloud technologies to drive innovation and enable high-performance, real-world applications.
 
-- 🎓 Master of Science in Computer Science from Columbia University
+- 🎓 Master of Science in Computer Science from Columbia University, with a specialization in Machine Learning
 - 🤖 Enthusiast in LLMs, building scalable AI systems, and delivering data-driven solutions to tackle real-world challenges
 - 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies  
-- 🚀 Always excited to learn and collaborate on innovative projects!
+- ![Rocket](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) Always excited to learn and collaborate on innovative projects!
+
 
 Reach out to me at: rm4084@columbia.edu
 
