@@ -1,10 +1,16 @@
 # Hey there👋, I'm Ronitt Mehra
 
-##### With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging advanced machine learning pipelines, MLOps, LLMs, scalable microservices, and cloud technologies to drive innovation and enable high-performance, real-world applications.
+With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging advanced machine learning pipelines, MLOps, LLMs, scalable microservices, and cloud technologies to drive innovation and enable high-performance, real-world applications.
 
-##### 🎓 Master of Science in Computer Science from Columbia University  
-##### 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies  
-##### 🚀 Always excited to learn and collaborate on innovative projects!
+- 🎓 Master of Science in Computer Science from Columbia University  
+- 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies  
+- 🚀 Always excited to learn and collaborate on innovative projects!
+
+Reach out to me at: rm4084@columbia.edu
+
+### 🤝 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-RonittMehra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ronittmehra)](https://linkedin.com/in/ronittmehra)
+[![GitHub](https://img.shields.io/badge/-Ronitt272-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Ronitt272)](https://github.com/Ronitt272)
 
 ### 👩‍💻 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,5 +61,8 @@
 ![Ronitt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitt272&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitt272&layout=compact&theme=radical)
+
+### 🌟 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronitt272&theme=radical)
 
 
