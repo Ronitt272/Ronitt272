@@ -4,8 +4,8 @@ With both industry and research experience, I have developed impactful solutions
 
 - 🎓 Master of Science in Computer Science from Columbia University, with a specialization in Machine Learning
 - 🤖 Enthusiast in LLMs, building scalable AI systems, and delivering data-driven solutions to tackle real-world challenges
-- 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies  
-- ![Rocket](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif) Always excited to learn and collaborate on innovative projects!
+- 💻 Passionate about Machine Learning, Software Development, and Cloud Technologies
+- 🚀 Always excited to learn and collaborate on innovative projects!
 
 
 Reach out to me at: rm4084@columbia.edu
