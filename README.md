@@ -1,7 +1,5 @@
 # Hey there👋, I'm Ronitt Mehra
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ronitt272&color=blue)
-
 ##### With both industry and research experience, I have developed impactful solutions across domains like pharmaceuticals and finance, leveraging advanced machine learning pipelines, MLOps, LLMs, scalable microservices, and cloud technologies to drive innovation and enable high-performance, real-world applications.
 
 ##### 🎓 Master of Science in Computer Science from Columbia University  
