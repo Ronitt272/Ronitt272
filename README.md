@@ -9,8 +9,8 @@ With both industry and research experience, I have developed impactful solutions
 Reach out to me at: rm4084@columbia.edu
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-RonittMehra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ronittmehra)](https://linkedin.com/in/ronittmehra)
-[![GitHub](https://img.shields.io/badge/-Ronitt272-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Ronitt272)](https://github.com/Ronitt272)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronittmehra)
+
 
 ### 👩‍💻 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +62,5 @@ Reach out to me at: rm4084@columbia.edu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitt272&layout=compact&theme=radical)
 
-### 🌟 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ronitt272&theme=radical)
 
 
